@@ -1,11 +1,12 @@
-<div align="center">
-<h1 aling="center">Hi 👋, I'm Danixilo 🐵</h1>
-  <div>
-<div align="center">
+<h2>⚡FrontEnd Dev + UI/UX Designer + Video Editor⚡</h2>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=danixiloqq&count_private=true&show_icons=true)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danixiloqq&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<div>
-
+<p>Hello! I'm Daniel, I love launching products and sharing with you how to do the same. I currently work as a freelance web developer.</a><br>
+<ul>
+  <li>💪 I am currently working and learning...<br>
+  <li>📫 How to contact me: danigutifran@gmail.com<br>
+</ul>
+  
+ <hr>
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danixilodev&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danixilodev&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
