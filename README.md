@@ -9,6 +9,8 @@
  <hr>
 
 <div align="center">
+  
   ![danixilo's GitHub stats](https://github-readme-stats-omega-beige-18.vercel.app/api?username=danixilodev&show_icons=true&theme=transparent&hide=stars&show=prs_merged,prs_merged_percentage&include_all_commits=true)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danixilodev&layout=pie)
+  
 </div>
