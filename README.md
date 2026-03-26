@@ -16,9 +16,9 @@
 
 <div align="center">
 
-  ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danixilodev&show_icons=true&theme=transparent&hide=stars&show=prs_merged,prs_merged_percentage&include_all_commits=true&rank_icon=github)
+![Daniel's GitHub stats](https://github-readme-stats-ivory-eta-15.vercel.app/api?username=danixilodev&show_icons=true&theme=transparent&hide=stars&show=prs_merged,prs_merged_percentage&include_all_commits=true&rank_icon=github)
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danixilodev&layout=pie&theme=transparent&size_weight=1&count_weight=0&langs_count=6)
+![Top Langs](https://github-readme-stats-ivory-eta-15.vercel.app/api/top-langs/?username=danixilodev&layout=pie&theme=transparent&size_weight=1&count_weight=0&langs_count=6)
 
 </div>
 
